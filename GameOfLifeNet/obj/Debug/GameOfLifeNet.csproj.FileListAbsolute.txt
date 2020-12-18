@@ -1,0 +1,10 @@
+C:\Users\swamp\source\repos\GameOfLifeNet\obj\Debug\GameOfLifeNet.csprojAssemblyReference.cache
+C:\Users\swamp\source\repos\GameOfLifeNet\obj\Debug\GameOfLifeNet.Form1.resources
+C:\Users\swamp\source\repos\GameOfLifeNet\obj\Debug\GameOfLifeNet.Properties.Resources.resources
+C:\Users\swamp\source\repos\GameOfLifeNet\obj\Debug\GameOfLifeNet.csproj.GenerateResource.cache
+C:\Users\swamp\source\repos\GameOfLifeNet\obj\Debug\GameOfLifeNet.csproj.CoreCompileInputs.cache
+C:\Users\swamp\source\repos\GameOfLifeNet\bin\Debug\GameOfLifeNet.exe.config
+C:\Users\swamp\source\repos\GameOfLifeNet\bin\Debug\GameOfLifeNet.exe
+C:\Users\swamp\source\repos\GameOfLifeNet\bin\Debug\GameOfLifeNet.pdb
+C:\Users\swamp\source\repos\GameOfLifeNet\obj\Debug\GameOfLifeNet.exe
+C:\Users\swamp\source\repos\GameOfLifeNet\obj\Debug\GameOfLifeNet.pdb
